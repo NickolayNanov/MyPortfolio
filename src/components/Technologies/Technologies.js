@@ -55,7 +55,6 @@ const Technologies = () => (
             Microservices (In Progress..) <br />
             Working with large code bases <br />
             Writing SQL Stored Procedures and Views <br />
-            English CAE
           </ListParagraph>
         </ListContainer>
       </ListItem>
